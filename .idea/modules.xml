@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HackAZWowFactor.iml" filepath="$PROJECT_DIR$/HackAZWowFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wowfactor.iml" filepath="$PROJECT_DIR$/.idea/wowfactor.iml" />
     </modules>
   </component>
 </project>
